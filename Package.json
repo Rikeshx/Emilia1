@@ -1,0 +1,15 @@
+{
+  "name": "Emilia",
+  "version": "0.0.1",
+  "description": "Emilia bot",
+  "main": "Emilia.js",
+  "scripts": {
+    "start": "node Emilia.js"
+  },
+  "author": "Rikesh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ms": "^2.1.1"
+  }
+}
